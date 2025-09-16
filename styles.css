@@ -1,0 +1,22 @@
+*{
+	margin: 10px;
+}
+h1 {
+	font-family: Papyrus, fantasy;
+	display: block;
+	font-size: 250%;
+	margin: 15px 5px;
+}
+h2 {
+	font-family: Garamond, 'Times New Roman', Times, serif;
+	font-size: 175%;
+}
+p {
+	font-family: Georgia, 'Times New Roman', Times, serif;
+}
+li{
+	margin: 5px;
+}
+a{
+	font-size: larger;
+}
